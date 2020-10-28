@@ -1,4 +1,4 @@
-student_name = input("Name:")
+student_name = input("Name: ")
 student_homework = int(input("Homework Score /25: "))
 student_assessment = int(input("Assessment Score /50: "))
 student_final_exam = int(input("Final Exam Score /100: "))
